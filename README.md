@@ -2,32 +2,32 @@
 - 
 - 👀 I’m interested in Application Development And Website Design
 
-## Android Developer
+# Android Developer
     # Java
     # API [Php,NodeJs]
-  # UI Design
+  ## UI Design
     # Material
-  # Library
+  ## Library
     # Retrofit
     # Volley
     # Glide
     # Picasso
-  # For Notification
+  ## For Notification
     # Firebase
 
-## Flutter Developer
+# Flutter Developer
 
-## Ionic Framework
+# Ionic Framework
     # Typescript
     # Html,Scss
     # API [Php,NodeJs]
 
-## Web Designer
+# Web Designer
     # html
     # css
     # php
 
-## Database
+# Database
     # MySQ
 
 
